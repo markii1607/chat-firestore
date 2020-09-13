@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chat-firestore/static/css/main.849ef4ff.chunk.css",
+    "main.js": "/chat-firestore/static/js/main.0af95a40.chunk.js",
+    "main.js.map": "/chat-firestore/static/js/main.0af95a40.chunk.js.map",
+    "runtime-main.js": "/chat-firestore/static/js/runtime-main.91dff240.js",
+    "runtime-main.js.map": "/chat-firestore/static/js/runtime-main.91dff240.js.map",
+    "static/js/2.3d0787da.chunk.js": "/chat-firestore/static/js/2.3d0787da.chunk.js",
+    "static/js/2.3d0787da.chunk.js.map": "/chat-firestore/static/js/2.3d0787da.chunk.js.map",
+    "index.html": "/chat-firestore/index.html",
+    "precache-manifest.bbd608f9496978506eeefa70265e3a1c.js": "/chat-firestore/precache-manifest.bbd608f9496978506eeefa70265e3a1c.js",
+    "service-worker.js": "/chat-firestore/service-worker.js",
+    "static/css/main.849ef4ff.chunk.css.map": "/chat-firestore/static/css/main.849ef4ff.chunk.css.map",
+    "static/js/2.3d0787da.chunk.js.LICENSE.txt": "/chat-firestore/static/js/2.3d0787da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91dff240.js",
+    "static/js/2.3d0787da.chunk.js",
+    "static/css/main.849ef4ff.chunk.css",
+    "static/js/main.0af95a40.chunk.js"
+  ]
+}
